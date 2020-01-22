@@ -1,0 +1,2 @@
+# digsy
+Aggregator and reader
